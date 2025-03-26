@@ -1,2 +1,6 @@
-# kaplay-how-to-list
-A list of "How-to's" for KAPLAY
+# List of "How-to's" for KAPLAY
+
+## Scenes
+
+### Make 'Flash' screen
+
